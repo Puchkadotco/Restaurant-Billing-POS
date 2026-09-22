@@ -30,7 +30,7 @@ The Restaurant POS Application is a comprehensive Android solution designed to s
     - Real-time order tracking from kitchen to delivery
     - Support for dine-in, takeout, and delivery order types
     - Order history and status updates
-    - Integration with kitchen display systems for seamless communication
+    - Integration with kitchen display systems for seamless communication hi to gund
 
 3. **Product Catalog and Menu Management**
     - Comprehensive product listings with detailed descriptions and images
